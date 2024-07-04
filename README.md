@@ -45,13 +45,20 @@ xviii.	Country
 Upon examining the dataset for anomalies, no duplicate entries was found.
 # Order Status Analysis
 A review of the dataset revealed that not all orders were shipped. The order statuses are categorized as follows:
+
 Cancelled: 60 orders
+
 Disputed: 14 orders
+
 In Process: 41 orders
+
 On Hold: 32 orders
+
 Resolved: 47 orders
+
 Shipped: 2,617 orders
-Product Analysis
+
+# Product Analysis
 Classic Cars were the most frequently ordered product category. 
 Geographic and Temporal Sales Analysis
 The United States had the highest number of orders, with transactions spanning eight different states. California led in sales among these states
